@@ -1,0 +1,33 @@
+.jumbotron{
+	margin-bottom: 0px;
+    background-image: url('../img/water.jpg');
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    text-shadow: -2px 0 rgb(58, 134, 199), 0 2px rgb(58, 134, 199),
+      2px 0 rgb(58, 134, 199), 0 -2px rgb(58, 134, 199);
+}
+.btn-warning{
+	background-color: rgb(58, 134, 199);
+	border-color:rgb(58, 134, 199);
+}
+
+img {
+	max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+h2 {
+	color: orange;
+}
+
+.blue-bg{
+	max-width: 100%
+	height: auto;
+	width: auto;
+	background-color: rgb(80, 104, 143);
+	border-radius: 10px;
+}
