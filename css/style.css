@@ -18,6 +18,7 @@ img {
 	max-width: 100%;
     height: auto;
     width: auto;
+    padding-top: 5px;
 }
 
 h2 {
@@ -28,6 +29,24 @@ h2 {
 	max-width: 100%
 	height: auto;
 	width: auto;
-	background-color: rgb(80, 104, 143);
+	background-color: rgb(58, 134, 199);
 	border-radius: 10px;
+}
+
+.white-txt{
+	color: white;
+}
+
+.go-right{
+	padding: 5px;
+}
+
+.bgr{
+	background-color: rgb(58, 134, 199);
+}
+
+.container{
+	background-color: #E2E0DA;
+	height: 100%;
+	padding-top: 15px;
 }
